@@ -1,2 +1,2 @@
 # LAB_estruc1
-Estructura De Datos II
+Estructura De Datos II- PROYECTO BALANCEO DE ARBOLES
